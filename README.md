@@ -8,7 +8,7 @@ The original workflow was difficult to navigate, with information scattered acro
 ## Solution
 - Created a structured Excel-based tracking system
 - Built-in dropdowns, automated summaries, and task sheets
-- Dynamic 3-month calendar view that updates as tasks are added
+- Dynamic 12-month calendar view that updates as tasks are added
 - Includes conditional formatting and color-coded status tracking
 
 ## Tools Used
