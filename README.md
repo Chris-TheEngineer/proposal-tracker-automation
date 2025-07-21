@@ -14,3 +14,6 @@ The original workflow was difficult to navigate, with information scattered acro
 ## Tools Used
 - Excel (Power formulas + data validation)
 - VBA for calendar automation
+
+Project template is located in Excel Files folder
+Design process and Demo documents will be in Design+Demo folder
